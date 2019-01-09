@@ -21,4 +21,6 @@ Si desea probarlo con otro puerto (si no es el habitual 3306 para MySQL) y con o
 tendrá que ir al paquete del programa 'modelo', luego a su clase 'Modelo', y ahí en el método 'Conexion()' hacer las modificaciones 
 pertinentes.
 
+El progrma se ejecuta desde la clase Pricipal, no desde el JFrame Form Vista.
+
 Un saludo.
