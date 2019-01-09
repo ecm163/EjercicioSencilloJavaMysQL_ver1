@@ -1,7 +1,7 @@
 # EjercicioSencilloJavaMysQL_ver1
 
 Ejercicio sencillo para practicar acceso a base de datos mediante Java e instrucciones MySQL, así como interfaces gráficos. 
-En ésta versión se usa radio-buttons (además de tex fields, labbels, buttons... que ya se usaron en la versión anterior). 
+En ésta versión se usa radio-buttons (además de text fields, labbels, buttons... que ya se usaron en la versión anterior). 
 Hecho por ecm163.
 
 El programa en Java está desarrollado con NetBeans.
